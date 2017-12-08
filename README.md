@@ -2,15 +2,15 @@
 Installation procedure :
 **************************
 
-Open the `` `Profile``` folder used by` `` Firefox```:
+Open the ```Profile``` folder used by``` Firefox```:
 
-`` `
+```
 Menu> Help> Troubleshooting information> Open Folder
-`` `
+```
 
-1. Copy the `` `chrome`` directory to it.
+1. Copy the ```chrome``` directory to it.
 
-2. Restart `` `Firefox```.
+2. Restart ```Firefox```.
 
 
 **************************
